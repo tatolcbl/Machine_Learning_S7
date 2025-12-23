@@ -1,0 +1,5 @@
+Links
+
+dataset: The CIFAR-100 dataset was downloaded locally using the torchvision library and then reused directly from disk for all experiments.
+
+GitHub: https://github.com/tatolcbl/Machine_Learning_S7
